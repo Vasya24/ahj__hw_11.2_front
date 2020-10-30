@@ -1,1 +1,1 @@
-# ahj__hw_11.2_front
+[![Build status](https://ci.appveyor.com/api/projects/status/jvqcqdk02waugi71?svg=true)](https://ci.appveyor.com/project/Vasya24/ahj-hw-11-2-front)
